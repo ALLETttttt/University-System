@@ -6,4 +6,4 @@ design, programming, testing, deployment and maintenance. The fundamental concep
 this "University System" project is using the Java programming language. You will 
 discover how to create flexible and reusable software, by applying object-oriented design 
 principles and guidelines. And, you will be able to communicate these designs in a visual 
-notation known as Unified Modelling Language (UML). Moreover, OOP defines most modern server-side scripting languages
+notation known as Unified Modelling Language (UML). Moreover, OOP defines most modern server-side scripting languages.
