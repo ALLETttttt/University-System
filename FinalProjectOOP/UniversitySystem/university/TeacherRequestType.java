@@ -1,0 +1,8 @@
+package university;
+
+public enum TeacherRequestType {
+	INQUIRE_TO_BE_PRESENTED_AT_WORK, 
+	INQUIRE_TO_REJECT_LESSON, 
+	INQUIRE_TO_GET_HOLIDAY, 
+	INQUIRE_ABOUT_SALARY;
+}

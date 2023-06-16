@@ -1,0 +1,5 @@
+package university;
+
+public enum TitleTeacher {
+	PROFESSOR, ASSOCIATE_PROFESSOR, SENIOR_LECTURER, LECTURER, TUTOR, INSTRUCTOR
+}
